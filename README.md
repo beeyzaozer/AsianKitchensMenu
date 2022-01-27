@@ -8,7 +8,6 @@ git clone https://github.com/beeyzaozer/AsianKitchensMenu.git
 `````
 ## What to do in the project
 
-------------
 
 The site is arranged in the form of a menu of a far eastern restaurant, and it is possible to navigate between pages thanks to JavaScript. We will give you the HTML and CSS codes of this site, which has a very nice appearance. We want you to complete the JavaScript part. Asian Kitchen's Menu to examine the site in detail
 
